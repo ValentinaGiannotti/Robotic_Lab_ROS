@@ -1,0 +1,14 @@
+material obstacle_09
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture ar_tag.png
+			}
+		}
+	}
+}
+

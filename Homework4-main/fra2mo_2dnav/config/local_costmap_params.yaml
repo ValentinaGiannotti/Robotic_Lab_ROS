@@ -1,0 +1,10 @@
+local_costmap:
+  global_frame: map
+  robot_base_frame: base_footprint
+  update_frequency: 25.0 #5.0 old parameter
+  publish_frequency: 50.0 #10.0 old parameter
+  static_map: false
+  rolling_window: true
+  width: 20.0 #7.0 old parameter
+  height: 20.0 #7.0 old parameter
+  resolution: 0.03 

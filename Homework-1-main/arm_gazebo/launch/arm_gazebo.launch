@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+     
+    <include file="$(find arm_gazebo)/launch/arm_world.launch" /> 
+    <include file="$(find arm_control)/launch/arm_control.launch"/>
+    
+</launch>
